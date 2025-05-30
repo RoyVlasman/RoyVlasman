@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoyVlasman
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,SQL,PowerBi
 - ⚡ Fun fact: I might have used chatgpt for some of the code and for the rest of the code I have probably watch multiple YT vids
 
 <!---
